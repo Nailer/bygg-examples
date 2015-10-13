@@ -12,8 +12,8 @@
     "url": "git://github.com/oleavr/bygg-examples.git"
   },
   "dependencies": {
-    "6to5ify": "^3.1.0",
-    "react": "^0.12.1"
+    "babelify": "^6.3.0",
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "bygg": "^1.0.0",
